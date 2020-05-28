@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_Emergencias</string>
+    <string name="title_home">Qual é sua Emergencia?</string>
+    <string name="title_dashboard">Telefones Uteis</string>
+    <string name="title_notifications">Atenção</string>
+    <string name="gps_settings">GPS Settings</string>
+    <string name="gps_notenabled">GPS não está ativado. Você tem que ir ao menu de configurações e ativar a localização</string>
+    <string name="settings">Configurações</string>
+    <string name="cancel">Cancelar! agora não, talvez depois!</string>
+    <string name="world_wide">No Brasil todo</string>
+    <string name="atencao">Atenção, seu numero de telefone e sua localização serão enviados junto com a ocorrencia, falsas informações é crime sujeito detenção, não pratique.</string>
+</resources>
